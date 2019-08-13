@@ -122,4 +122,47 @@ F = (x1 ∨ x2) ∧ (¬x3 ∨ x4) ∧ (x5 ∨ ¬x6)  ∧ (¬x7 ∨ ¬x8)
 完整的代码见[solve-kosaraju.php](./solve-kosaraju.php)
 
 ### Tarjan's algorithm
-另一种求强连通分量的算法
+这是另一种求强连通分量的算法。对于Kosaraju算法而言，每个节点需要被遍历两次，正向找子节点一次，反向找父节点一次。而
+Tarjan算法中，每个节点只需要遍历一次，但是，需要更多的储存空间用于记录额外的遍历信息。
+
+算法定义了四个关键属性
+* 每个节点的index，可以理解为节点被访问的顺序，值小者总是比值大者先访问到。
+* 每个节点的lowlink，对于节点v，它表示从v开始（包括v自身），能够访问到的所有节点的index的最小值。
+* 当前遍历栈S，按访问顺序保存了当前正在遍历中的节点。
+* 每个节点的onStack，用于快速得知此节点是否在当前遍历栈中。
+
+算法的实现过程如下：
+1. 初始化全局globalindex为0，当前遍历栈S为空。
+2. 对于每个节点v，如果v的index还未设置（即v还没遍历过），对v调用strongconnect(v)。其中strongconnect(v)步骤如下，是一个递归函数：
+    1. 设置v的index和lowlink为全局globalindex，globalindex自增1，将v入遍历栈S，设置v的onStack为true.
+    2. 对于v指向的每个节点w。
+        * 如果w未遍历过，其index还未设置，则对w调用strongconnect(w)，然后如果w.lowlink比v.lowlink要小，设置v.lowlink = w.lowlink
+        * w已遍历过。如果w在当前遍历栈中(w.onStack == true)且 w.index 小于v.lowlink，设置 v.lowlink = w.index
+    3. 如果v.lowlink等于v.index。则从栈顶节点开始，直到v节点为止（包含v节点），这些节点构成一个强连通分量，依次将它们弹出栈，且设置对应的onStack为false。
+
+关键点就在于index和lowlink的比较。对于当前遍历栈中的任一节点v，进行到第3小步比较lowlink和index时：
+1. 如果v.index与v.lowlink相等，则v可以作为一个强连通分量的起点。
+2. 如果v.index大于v.lowlink，则v一定在环上。
+
+对于第2点，v.index大于v.lowlink，则表示从v开始，能够走到一个在其之前遍历且在栈中的节点u，且u.index = u.lowlink = v.lowlink。
+v.lowlink表示的是能够访问到的所有节点的index的最小值，这个节点就作为u，那么肯定有v.lowlink = u.index。
+下面证明u.index = u.lowlink，假设u.index > u.lowlink， 那就意味着，从u能够走到另一个index更小的节点w。
+而v能够走到u，那么根据传递性，v也能走到w，那么v.lowlink就应该设置为w.index，与v.lowlink = u.index矛盾。
+
+而与此同时，这还表示，从u能走到v。因为u在栈中，表示现在正在遍历u可达的节点，否则，若u可达的节点已全部遍历完，就已经找到了其相应的强连通分量，进行了弹栈操作。
+
+第1点有两种情况。
+* 如果v与其之后遍历的节点无法构成环，则之后节点index必然大于v.index，且必然已经递归处理过了，v节点单独构成环。
+* 如果v与其之后遍历的节点能构成环， 则在当前栈中，从v开始，直到栈顶节点为止，它们构成了强连通分量。
+
+对于第二种情况，需要证明两点
+* 没有其他节点可以与v构成环了。根据strongconnect函数的定义，进行到第3步时，v的所有可达的节点必然已经递归遍历过了，因此不会再有其他节点可以加入。
+* 栈中，从v开始，直到栈顶节点为止，所有节点在一个环中。
+
+对于第二点。首先当前的栈顶元素，其必然在环上，假设此元素是u， 则现在有路径 v -> x1 -> x2 -> ... -> xn -> u。  
+若u无法走到v， 假设u所能走到的栈中最早遍历的节点为xi， 那么  xi, x(i+1), ... u 已经构成了一个强连通分量， 且xi所有可达的节点已经遍历完。
+那么它们应该已经构成了一个强连通分量，进行了弹栈操作，与当前位于栈中的状态矛盾。
+
+综合以上，算法能够正确的找出所有的强连通分量。
+
+完整的代码见[solve-tarjan.php](./solve-tarjan.php)
