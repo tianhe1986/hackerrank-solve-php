@@ -7,6 +7,7 @@
 * [Sequence Equation](./Sequence-Equation)
 
 # Medium 中级
+* [Pairs](./Pairs)
 
 # Hard 困难级
 * [Recording Episodes](./Recording-Episodes)
