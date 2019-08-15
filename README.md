@@ -4,6 +4,7 @@
 
 # Easy 简单级
 * [Find Digits](./Find-Digits)
+* [Sequence Equation](./Sequence-Equation)
 
 # Medium 中级
 
