@@ -7,6 +7,7 @@
 * [Sequence Equation](./Sequence-Equation)
 
 # Medium 中级
+* [Minimum Loss](./Minimum-Loss)
 * [Pairs](./Pairs)
 
 # Hard 困难级
