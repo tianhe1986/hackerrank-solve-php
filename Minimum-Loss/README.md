@@ -1,4 +1,4 @@
-# Find Digits
+# Minimum Loss
 原题见[这里](https://www.hackerrank.com/challenges/minimum-loss/problem)
 对于一个数组， 若一对元素a, b满足条件，则有:
 1. a在数组中位置在b之前。
