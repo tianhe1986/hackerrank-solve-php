@@ -7,6 +7,7 @@
 * [Sequence Equation](./Sequence-Equation)
 
 # Medium 中级
+* [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * [Minimum Loss](./Minimum-Loss)
 * [Pairs](./Pairs)
 
