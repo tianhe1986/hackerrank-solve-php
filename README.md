@@ -11,6 +11,7 @@
 * [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * [Minimum Loss](./Minimum-Loss)
 * [Pairs](./Pairs)
+* [Roads and Libraries](./Roads-and-Libraries)
 
 # Hard 困难级
 * [Recording Episodes](./Recording-Episodes)
