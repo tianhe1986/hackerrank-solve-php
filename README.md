@@ -5,6 +5,7 @@
 # Easy 简单级
 * [Find Digits](./Find-Digits)
 * [Sequence Equation](./Sequence-Equation)
+* [Viral Advertising](./Viral-Advertising)
 
 # Medium 中级
 * [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
