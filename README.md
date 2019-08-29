@@ -11,6 +11,7 @@
 * [Pairs](./Pairs)
 
 # Hard 困难级
+* [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * [Recording Episodes](./Recording-Episodes)
 * [Repair Roads](./Repair-Roads)
 * [Subset Component](./Subset-Component)
