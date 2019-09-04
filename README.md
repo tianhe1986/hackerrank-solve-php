@@ -4,6 +4,7 @@
 
 # Easy 简单级
 * [Find Digits](./Find-Digits)
+* [Jumping on the Clouds: Revisited](./Jumping-Clouds)
 * [Sequence Equation](./Sequence-Equation)
 * [Viral Advertising](./Viral-Advertising)
 
