@@ -8,6 +8,7 @@
 * [Viral Advertising](./Viral-Advertising)
 
 # Medium 中级
+* [Journey to the Moon](./Journey-to-the-Moon)
 * [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * [Minimum Loss](./Minimum-Loss)
 * [Pairs](./Pairs)
