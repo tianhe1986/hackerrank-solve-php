@@ -5,7 +5,7 @@ function fairRations($B) {
     
     $result = 0;
     foreach ($B as $num) {
-        if ($flag) { //前一个人手中是否是奇数块面包
+        if ($flag) { //前一个人手中是奇数块面包
             // 不论此人奇偶，都要放发
             $result += 2;
             
