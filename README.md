@@ -14,6 +14,7 @@
 * [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * [Minimum Loss](./Minimum-Loss)
 * [Pairs](./Pairs)
+* [Red Knight's Shortest Path](./Red-Knight-Path)
 * [Roads and Libraries](./Roads-and-Libraries)
 
 # Hard 困难级
