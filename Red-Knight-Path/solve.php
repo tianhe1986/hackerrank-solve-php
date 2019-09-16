@@ -34,17 +34,43 @@ function printShortestPath($n, $iStart, $jStart, $iEnd, $jEnd) {
         $left = ($istep - $jdiff)/2;
         $right = ($istep + $jdiff)/2;
         if ($idiff < 0) { //上移, 先左上再右上
-            for ($i = 1; $i <= $left; $i++) {
+            //左上移到头
+            $trueLeft = $jStart;
+            if ($trueLeft > $left) {
+                $trueLeft = $left;
+            }
+            //交替
+            $inter = $left - $trueLeft;
+            //右上
+            $trueRight = $right - $inter;
+            for ($i = 1; $i <= $trueLeft; $i++) {
                 $resultArr[] = 'UL';
             }
-            for ($i = 1; $i <= $right; $i++) {
+            for ($i = 1; $i <= $inter; $i++) {
+                $resultArr[] = 'UR';
+                $resultArr[] = 'UL';
+            }
+            for ($i = 1; $i <= $trueRight; $i++) {
                 $resultArr[] = 'UR';
             }
         } else { //下移, 先右下再左下
-            for ($i = 1; $i <= $right; $i++) {
+            //右下移到头
+            $trueRight = $n - 1 - $iStart;
+            if ($trueRight > $right) {
+                $trueRight = $right;
+            }
+            //交替
+            $inter = $right - $trueRight;
+            //左下
+            $trueLeft = $left - $inter;
+            for ($i = 1; $i <= $trueRight; $i++) {
                 $resultArr[] = 'LR';
             }
-            for ($i = 1; $i <= $left; $i++) {
+            for ($i = 1; $i <= $inter; $i++) {
+                $resultArr[] = 'LL';
+                $resultArr[] = 'LR';
+            }
+            for ($i = 1; $i <= $trueLeft; $i++) {
                 $resultArr[] = 'LL';
             }
         }
