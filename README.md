@@ -22,3 +22,4 @@
 * [Recording Episodes](./Recording-Episodes)
 * [Repair Roads](./Repair-Roads)
 * [Subset Component](./Subset-Component)
+* [Super Functional Strings](./Super-Functional-Strings)
