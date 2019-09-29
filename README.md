@@ -6,6 +6,7 @@
 * [Fair Rations](./Fair-Rations)
 * [Find Digits](./Find-Digits)
 * [Flatland Space Stations](./Flatland-Space-Stations)
+* [Intro to Tutorial Challenges](./Intro-Tutorial)
 * [Jumping on the Clouds: Revisited](./Jumping-Clouds)
 * [Sequence Equation](./Sequence-Equation)
 * [Viral Advertising](./Viral-Advertising)
