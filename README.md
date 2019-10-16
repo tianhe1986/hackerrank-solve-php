@@ -20,6 +20,8 @@
 * [Pairs](./Pairs)
 * [Red Knight's Shortest Path](./Red-Knight-Path)
 * [Roads and Libraries](./Roads-and-Libraries)
+* [Snakes and Ladders: The Quickest Way Up](./Snakes-And-Ladders)
+* [The Story of a Tree](./The-Story-Tree)
 
 # Hard 困难级
 * [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
