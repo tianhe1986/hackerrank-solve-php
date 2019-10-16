@@ -25,5 +25,6 @@
 * [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * [Recording Episodes](./Recording-Episodes)
 * [Repair Roads](./Repair-Roads)
+* [Savita And Friends](./Savita-And-Friends)
 * [Subset Component](./Subset-Component)
 * [Super Functional Strings](./Super-Functional-Strings)
