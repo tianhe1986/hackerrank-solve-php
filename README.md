@@ -3,6 +3,7 @@
 我会尽量多讲一些简单和普通难度的, 对新手友好一点, 同时, 也因为自己水平有限啊:) 
 
 # Easy 简单级
+* [Correctness and the Loop Invariant](./Correctness-Invariant)
 * [Fair Rations](./Fair-Rations)
 * [Find Digits](./Find-Digits)
 * [Flatland Space Stations](./Flatland-Space-Stations)
