@@ -15,6 +15,7 @@
 
 # Medium 中级
 * [Even Tree](./Even-Tree)
+* [Hackerland Radio Transmitters](./Radio-Transmitters)
 * [Journey to the Moon](./Journey-to-the-Moon)
 * [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * [Minimum Loss](./Minimum-Loss)
