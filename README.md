@@ -6,6 +6,7 @@
 * [Correctness and the Loop Invariant](./Correctness-Invariant)
 * [Fair Rations](./Fair-Rations)
 * [Find Digits](./Find-Digits)
+* [Find the Median](./Find-the-Median)
 * [Flatland Space Stations](./Flatland-Space-Stations)
 * [Insertion Sort - Part 1](./Insertion-Sort1)
 * [Intro to Tutorial Challenges](./Intro-Tutorial)
