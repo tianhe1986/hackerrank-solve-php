@@ -27,6 +27,7 @@
 
 # Hard 困难级
 * [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
+* [Favorite sequence](./Favorite-Sequence)
 * [Recording Episodes](./Recording-Episodes)
 * [Repair Roads](./Repair-Roads)
 * [Savita And Friends](./Savita-And-Friends)
