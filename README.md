@@ -17,6 +17,7 @@
 
 # Medium 中级
 * [Even Tree](./Even-Tree)
+* [Extra Long Factorials](./Extra-Long-Factorials)
 * [Gena Playing Hanoi](./Gena-Playing-Hanoi)
 * [Hackerland Radio Transmitters](./Radio-Transmitters)
 * [Journey to the Moon](./Journey-to-the-Moon)
