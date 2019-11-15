@@ -13,6 +13,7 @@
 * Intro to Tutorial Challenges [Intro to Tutorial Challenges](./Intro-Tutorial)
 * Jumping on the Clouds: Revisited [Jumping on the Clouds: Revisited](./Jumping-Clouds)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
+* Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
 
 # Medium 中级
