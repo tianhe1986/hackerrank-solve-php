@@ -19,6 +19,7 @@
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
 * Gena Playing Hanoi [Gena Playing Hanoi](./Gena-Playing-Hanoi)
+* Gridland Metro [Gridland Metro](./Gridland-Metro)
 * Hackerland Radio Transmitters [Hackerland Radio Transmitters](./Radio-Transmitters)
 * Journey to the Moon [Journey to the Moon](./Journey-to-the-Moon)
 * KnightL on a Chessboard [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
