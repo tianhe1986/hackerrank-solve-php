@@ -32,6 +32,7 @@
 # Hard 困难级
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * Favorite sequence [Favorite sequence](./Favorite-Sequence)
+* Quadrant Queries [Quadrant Queries](./Quadrant-Queries)
 * Recording Episodes [Recording Episodes](./Recording-Episodes)
 * Repair Roads [Repair Roads](./Repair-Roads)
 * Savita And Friends [Savita And Friends](./Savita-And-Friends)
