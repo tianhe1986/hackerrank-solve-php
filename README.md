@@ -12,6 +12,7 @@
 * Insertion Sort - Part 1 [Insertion Sort - Part 1](./Insertion-Sort1)
 * Intro to Tutorial Challenges [Intro to Tutorial Challenges](./Intro-Tutorial)
 * Jumping on the Clouds: Revisited [Jumping on the Clouds: Revisited](./Jumping-Clouds)
+* Repeated String [Repeated String](./Repeated-String)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
