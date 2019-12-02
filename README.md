@@ -17,6 +17,7 @@
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
 
 # Medium 中级
+* Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
 * Gena Playing Hanoi [Gena Playing Hanoi](./Gena-Playing-Hanoi)
