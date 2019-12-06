@@ -31,6 +31,7 @@
 * Red Knight's Shortest Path [Red Knight's Shortest Path](./Red-Knight-Path)
 * Roads and Libraries [Roads and Libraries](./Roads-and-Libraries)
 * Snakes and Ladders: The Quickest Way Up [Snakes and Ladders: The Quickest Way Up](./Snakes-And-Ladders)
+* Synchronous Shopping [Synchronous Shopping](./Synchronous-Shopping)
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
 
 # Hard 困难级
