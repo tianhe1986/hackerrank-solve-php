@@ -21,6 +21,7 @@
 
 # Medium 中级
 * Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
+* Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
 * Gena Playing Hanoi [Gena Playing Hanoi](./Gena-Playing-Hanoi)
