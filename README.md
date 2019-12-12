@@ -40,6 +40,7 @@
 * Cards Permutation [Cards Permutation](./Cards-Permutation)
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * Favorite sequence [Favorite sequence](./Favorite-Sequence)
+* HackerX [HackerX](./HackerX)
 * Quadrant Queries [Quadrant Queries](./Quadrant-Queries)
 * Real Estate Broker [Real Estate Broker](./Real-Estate-Broker)
 * Recording Episodes [Recording Episodes](./Recording-Episodes)
