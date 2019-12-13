@@ -30,6 +30,7 @@
 * Hackerland Radio Transmitters [Hackerland Radio Transmitters](./Radio-Transmitters)
 * Journey to the Moon [Journey to the Moon](./Journey-to-the-Moon)
 * KnightL on a Chessboard [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
+* Kruskal (MST): Really Special Subtree [Kruskal (MST): Really Special Subtree](./Kruskal)
 * Minimum Loss [Minimum Loss](./Minimum-Loss)
 * Pairs [Pairs](./Pairs)
 * Red Knight's Shortest Path [Red Knight's Shortest Path](./Red-Knight-Path)
