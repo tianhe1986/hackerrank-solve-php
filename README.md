@@ -14,6 +14,7 @@
 * Jumping on the Clouds[Jumping on the Clouds](./Jumping-On-Clouds)
 * Jumping on the Clouds: Revisited [Jumping on the Clouds: Revisited](./Jumping-Clouds)
 * Library Fine [Library Fine](./Library-Fine)
+* Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
 * Repeated String [Repeated String](./Repeated-String)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
