@@ -44,6 +44,7 @@
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * Favorite sequence [Favorite sequence](./Favorite-Sequence)
 * HackerX [HackerX](./HackerX)
+* Making Candies [Making Candies](./Making-Candies)
 * Quadrant Queries [Quadrant Queries](./Quadrant-Queries)
 * Real Estate Broker [Real Estate Broker](./Real-Estate-Broker)
 * Recording Episodes [Recording Episodes](./Recording-Episodes)
