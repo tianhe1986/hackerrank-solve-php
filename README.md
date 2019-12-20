@@ -40,6 +40,7 @@
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
 
 # Hard 困难级
+* ByteLandian Tours [ByteLandian Tours](./ByteLandian-Tours)
 * Cards Permutation [Cards Permutation](./Cards-Permutation)
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * Favorite sequence [Favorite sequence](./Favorite-Sequence)
