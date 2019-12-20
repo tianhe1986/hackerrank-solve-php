@@ -5,6 +5,7 @@
 # Easy 简单级
 * Append and Delete [Append and Delete](./Append-And-Delete)
 * Correctness and the Loop Invariant [Correctness and the Loop Invariant](./Correctness-Invariant)
+* Cut the sticks [Cut the sticks](./Cut-the-sticks)
 * Fair Rations [Fair Rations](./Fair-Rations)
 * Find Digits [Find Digits](./Find-Digits)
 * Find the Median [Find the Median](./Find-the-Median)
