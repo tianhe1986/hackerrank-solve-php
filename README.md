@@ -34,6 +34,7 @@
 * Kruskal (MST): Really Special Subtree [Kruskal (MST): Really Special Subtree](./Kruskal)
 * Minimum Loss [Minimum Loss](./Minimum-Loss)
 * Pairs [Pairs](./Pairs)
+* Prim's (MST) : Special Subtree [Prim's (MST) : Special Subtree](./Prim-Mst)
 * Red Knight's Shortest Path [Red Knight's Shortest Path](./Red-Knight-Path)
 * Roads and Libraries [Roads and Libraries](./Roads-and-Libraries)
 * Snakes and Ladders: The Quickest Way Up [Snakes and Ladders: The Quickest Way Up](./Snakes-And-Ladders)
