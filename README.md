@@ -4,6 +4,7 @@
 
 # Easy 简单级
 * Append and Delete [Append and Delete](./Append-And-Delete)
+* Big Sorting [Big Sorting](./Big-Sorting)
 * Correctness and the Loop Invariant [Correctness and the Loop Invariant](./Correctness-Invariant)
 * Cut the sticks [Cut the sticks](./Cut-the-sticks)
 * Equalize the Array [Equalize the Array](./Equalize-the-Array)
