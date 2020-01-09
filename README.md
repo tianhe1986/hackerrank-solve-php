@@ -38,6 +38,7 @@
 * KnightL on a Chessboard [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * Kruskal (MST): Really Special Subtree [Kruskal (MST): Really Special Subtree](./Kruskal)
 * Minimum Loss [Minimum Loss](./Minimum-Loss)
+* Minimum Penalty Path [Minimum Penalty Path](./Minimum-Penalty-Path)
 * Pairs [Pairs](./Pairs)
 * Prim's (MST) : Special Subtree [Prim's (MST) : Special Subtree](./Prim-Mst)
 * Red Knight's Shortest Path [Red Knight's Shortest Path](./Red-Knight-Path)
