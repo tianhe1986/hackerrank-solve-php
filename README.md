@@ -20,6 +20,7 @@
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
 * Quicksort 1 - Partition [Quicksort 1 - Partition](./Quicksort-Partition)
 * Repeated String [Repeated String](./Repeated-String)
+* Running Time of Algorithms [Running Time of Algorithms](./Running-Time)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
