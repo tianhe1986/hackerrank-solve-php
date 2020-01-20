@@ -35,6 +35,7 @@
 * Gridland Metro [Gridland Metro](./Gridland-Metro)
 * Hackerland Radio Transmitters [Hackerland Radio Transmitters](./Radio-Transmitters)
 * Jack goes to Rapture [Jack goes to Rapture](./Jack-Rapture)
+* Jeanie's Route [Jeanie's Route](./Jeanie-Route)
 * Journey to the Moon [Journey to the Moon](./Journey-to-the-Moon)
 * KnightL on a Chessboard [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * Kruskal (MST): Really Special Subtree [Kruskal (MST): Really Special Subtree](./Kruskal)
