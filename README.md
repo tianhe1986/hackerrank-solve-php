@@ -13,6 +13,7 @@
 * Find the Median [Find the Median](./Find-the-Median)
 * Flatland Space Stations [Flatland Space Stations](./Flatland-Space-Stations)
 * Insertion Sort - Part 1 [Insertion Sort - Part 1](./Insertion-Sort1)
+* Insertion Sort - Part 2 [Insertion Sort - Part 2](./Insertion-Sort2)
 * Intro to Tutorial Challenges [Intro to Tutorial Challenges](./Intro-Tutorial)
 * Jumping on the Clouds[Jumping on the Clouds](./Jumping-On-Clouds)
 * Jumping on the Clouds: Revisited [Jumping on the Clouds: Revisited](./Jumping-Clouds)
