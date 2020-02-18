@@ -6,6 +6,7 @@
 * Append and Delete [Append and Delete](./Append-And-Delete)
 * Big Sorting [Big Sorting](./Big-Sorting)
 * Correctness and the Loop Invariant [Correctness and the Loop Invariant](./Correctness-Invariant)
+* Counting Sort 1 [Counting Sort 1](./Counting-Sort1)
 * Cut the sticks [Cut the sticks](./Cut-the-sticks)
 * Equalize the Array [Equalize the Array](./Equalize-the-Array)
 * Fair Rations [Fair Rations](./Fair-Rations)
