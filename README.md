@@ -30,6 +30,7 @@
 # Medium 中级
 * Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
+* Candies [Candies](./Candies)
 * Clique [Clique](./Clique)
 * Crab Graphs [Crab Graphs](./Crab-Graphs)
 * Even Tree [Even Tree](./Even-Tree)
