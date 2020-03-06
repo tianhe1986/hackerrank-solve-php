@@ -69,6 +69,7 @@
 * Savita And Friends [Savita And Friends](./Savita-And-Friends)
 * Subset Component [Subset Component](./Subset-Component)
 * Super Functional Strings [Super Functional Strings](./Super-Functional-Strings)
+* Task Scheduling [Task Scheduling](./Task-Scheduling)
 * Toll Cost Digits [Toll Cost Digits](./Toll-Cost-Digits)
 * Tree Flow [Tree Flow](./Tree-Flow)
 * Tripartite Matching [Tripartite Matching](./Tripartite-Matching)
