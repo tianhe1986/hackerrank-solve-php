@@ -32,6 +32,7 @@
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
 * Candies [Candies](./Candies)
 * Clique [Clique](./Clique)
+* Cloudy Day [Cloudy Day](./Cloudy-Day)
 * Crab Graphs [Crab Graphs](./Crab-Graphs)
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
