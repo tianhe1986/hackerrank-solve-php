@@ -58,6 +58,7 @@
 * Cards Permutation [Cards Permutation](./Cards-Permutation)
 * Determining DNA Health [Determining DNA Health](./Determining-Health)
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
+* Distant Pairs [Distant Pairs](./Distant-Pairs)
 * Favorite sequence [Favorite sequence](./Favorite-Sequence)
 * Frog in Maze [Frog in Maze](./Frog-Maze)
 * HackerX [HackerX](./HackerX)
