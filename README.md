@@ -26,6 +26,7 @@
 * Running Time of Algorithms [Running Time of Algorithms](./Running-Time)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
+* Two Characters [Two Characters](./Two-Characters)
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
 
 # Medium 中级
