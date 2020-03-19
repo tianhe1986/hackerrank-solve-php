@@ -58,6 +58,7 @@
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
 
 # Hard 困难级
+* Bike Racers [Bike Racers](./Bike-Racers)
 * ByteLandian Tours [ByteLandian Tours](./ByteLandian-Tours)
 * Cards Permutation [Cards Permutation](./Cards-Permutation)
 * Determining DNA Health [Determining DNA Health](./Determining-Health)
