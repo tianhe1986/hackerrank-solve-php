@@ -39,6 +39,7 @@
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
 * Gena Playing Hanoi [Gena Playing Hanoi](./Gena-Playing-Hanoi)
+* Goodland Electricity [Goodland Electricity](./Goodland-Electricity)
 * Greedy Florist [Greedy Florist](./Greedy-Florist)
 * Gridland Metro [Gridland Metro](./Gridland-Metro)
 * Hackerland Radio Transmitters [Hackerland Radio Transmitters](./Radio-Transmitters)
