@@ -49,6 +49,7 @@
 * Journey to the Moon [Journey to the Moon](./Journey-to-the-Moon)
 * KnightL on a Chessboard [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * Kruskal (MST): Really Special Subtree [Kruskal (MST): Really Special Subtree](./Kruskal)
+* Max Min [Max Min](./Max-Min)
 * Minimum Loss [Minimum Loss](./Minimum-Loss)
 * Minimum Penalty Path [Minimum Penalty Path](./Minimum-Penalty-Path)
 * Pairs [Pairs](./Pairs)
