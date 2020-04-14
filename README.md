@@ -22,6 +22,7 @@
 * Jumping on the Clouds: Revisited [Jumping on the Clouds: Revisited](./Jumping-Clouds)
 * Library Fine [Library Fine](./Library-Fine)
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
+* Palindrome Index [Palindrome Index](./Palindrome-Index)
 * Quicksort 1 - Partition [Quicksort 1 - Partition](./Quicksort-Partition)
 * Repeated String [Repeated String](./Repeated-String)
 * Running Time of Algorithms [Running Time of Algorithms](./Running-Time)
