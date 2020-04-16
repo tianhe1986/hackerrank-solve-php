@@ -82,6 +82,7 @@
 * Super Functional Strings [Super Functional Strings](./Super-Functional-Strings)
 * Task Scheduling [Task Scheduling](./Task-Scheduling)
 * The Value of Friendship [The Value of Friendship](./Value-Friendship)
+* Ticket [Ticket](./Ticket)
 * Toll Cost Digits [Toll Cost Digits](./Toll-Cost-Digits)
 * Tree Flow [Tree Flow](./Tree-Flow)
 * Tripartite Matching [Tripartite Matching](./Tripartite-Matching)
