@@ -28,6 +28,7 @@
 * Running Time of Algorithms [Running Time of Algorithms](./Running-Time)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
+* Super Reduced String [Super Reduced String](./Super-Reduced-String)
 * Two Characters [Two Characters](./Two-Characters)
 * Two Strings [Two Strings](./Two-Strings)
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
