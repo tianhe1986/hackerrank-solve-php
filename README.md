@@ -68,6 +68,7 @@
 * Bike Racers [Bike Racers](./Bike-Racers)
 * ByteLandian Tours [ByteLandian Tours](./ByteLandian-Tours)
 * Cards Permutation [Cards Permutation](./Cards-Permutation)
+* Count Strings [Count Strings](./Count-Strings)
 * Determining DNA Health [Determining DNA Health](./Determining-Health)
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * Distant Pairs [Distant Pairs](./Distant-Pairs)
