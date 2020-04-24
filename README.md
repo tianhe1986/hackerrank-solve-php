@@ -32,6 +32,7 @@
 * Two Characters [Two Characters](./Two-Characters)
 * Two Strings [Two Strings](./Two-Strings)
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
+* Weighted Uniform Strings [Weighted Uniform Strings](./Weighted-Uniform-Strings)
 
 # Medium 中级
 * Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
