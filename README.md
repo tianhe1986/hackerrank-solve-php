@@ -43,6 +43,7 @@
 * Crab Graphs [Crab Graphs](./Crab-Graphs)
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
+* Flipping the Matrix [Flipping the Matrix](./Flipping-Matrix)
 * Gena Playing Hanoi [Gena Playing Hanoi](./Gena-Playing-Hanoi)
 * Goodland Electricity [Goodland Electricity](./Goodland-Electricity)
 * Greedy Florist [Greedy Florist](./Greedy-Florist)
