@@ -77,6 +77,7 @@
 * Favorite sequence [Favorite sequence](./Favorite-Sequence)
 * Frog in Maze [Frog in Maze](./Frog-Maze)
 * HackerX [HackerX](./HackerX)
+* Lovely Triplets [Lovely Triplets](./Lovely-Triplets)
 * Making Candies [Making Candies](./Making-Candies)
 * Quadrant Queries [Quadrant Queries](./Quadrant-Queries)
 * Real Estate Broker [Real Estate Broker](./Real-Estate-Broker)
