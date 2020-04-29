@@ -36,6 +36,7 @@
 
 # Medium 中级
 * Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
+* Bonetrousle [Bonetrousle](./Bonetrousle)
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
 * Candies [Candies](./Candies)
 * Clique [Clique](./Clique)
