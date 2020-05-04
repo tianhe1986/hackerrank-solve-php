@@ -24,6 +24,7 @@
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
 * Making Anagrams [Making Anagrams](./Making-Anagrams)
 * Palindrome Index [Palindrome Index](./Palindrome-Index)
+* Pangrams [Pangrams](./Pangrams)
 * Quicksort 1 - Partition [Quicksort 1 - Partition](./Quicksort-Partition)
 * Repeated String [Repeated String](./Repeated-String)
 * Running Time of Algorithms [Running Time of Algorithms](./Running-Time)
