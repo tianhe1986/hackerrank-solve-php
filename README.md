@@ -43,6 +43,7 @@
 * Clique [Clique](./Clique)
 * Cloudy Day [Cloudy Day](./Cloudy-Day)
 * Crab Graphs [Crab Graphs](./Crab-Graphs)
+* Equal [Equal](./Equal)
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
 * Flipping the Matrix [Flipping the Matrix](./Flipping-Matrix)
