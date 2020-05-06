@@ -74,6 +74,7 @@
 # Hard 困难级
 * Alex vs Fedor [Alex vs Fedor](./Alex-Fedor)
 * Array Construction [Array Construction](./Array-Construction)
+* Beautiful 3 Set [Beautiful 3 Set](./Beautiful-3Set)
 * Bike Racers [Bike Racers](./Bike-Racers)
 * ByteLandian Tours [ByteLandian Tours](./ByteLandian-Tours)
 * Cards Permutation [Cards Permutation](./Cards-Permutation)
