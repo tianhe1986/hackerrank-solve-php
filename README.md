@@ -23,6 +23,7 @@
 * Library Fine [Library Fine](./Library-Fine)
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
 * Making Anagrams [Making Anagrams](./Making-Anagrams)
+* Missing Numbers [Missing Numbers](./Missing-Numbers)
 * Palindrome Index [Palindrome Index](./Palindrome-Index)
 * Pangrams [Pangrams](./Pangrams)
 * Quicksort 1 - Partition [Quicksort 1 - Partition](./Quicksort-Partition)
