@@ -72,6 +72,7 @@
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
 
 # Hard 困难级
+* Absolute Element Sums [Absolute Element Sums](./Absolute-Element-Sums)
 * Alex vs Fedor [Alex vs Fedor](./Alex-Fedor)
 * Array Construction [Array Construction](./Array-Construction)
 * Beautiful 3 Set [Beautiful 3 Set](./Beautiful-3Set)
