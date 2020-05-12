@@ -18,6 +18,7 @@
 * Insertion Sort - Part 1 [Insertion Sort - Part 1](./Insertion-Sort1)
 * Insertion Sort - Part 2 [Insertion Sort - Part 2](./Insertion-Sort2)
 * Intro to Tutorial Challenges [Intro to Tutorial Challenges](./Intro-Tutorial)
+* Jim and the Orders [Jim and the Orders](./Jim-Orders)
 * Jumping on the Clouds[Jumping on the Clouds](./Jumping-On-Clouds)
 * Jumping on the Clouds: Revisited [Jumping on the Clouds: Revisited](./Jumping-Clouds)
 * Library Fine [Library Fine](./Library-Fine)
