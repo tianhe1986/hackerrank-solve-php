@@ -86,6 +86,7 @@
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
 * Distant Pairs [Distant Pairs](./Distant-Pairs)
 * Favorite sequence [Favorite sequence](./Favorite-Sequence)
+* Find Strings [Find Strings](./Find-Strings)
 * Frog in Maze [Frog in Maze](./Frog-Maze)
 * HackerX [HackerX](./HackerX)
 * Lovely Triplets [Lovely Triplets](./Lovely-Triplets)
