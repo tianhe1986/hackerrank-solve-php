@@ -73,6 +73,7 @@
 * Synchronous Shopping [Synchronous Shopping](./Synchronous-Shopping)
 * The Coin Change Problem [The Coin Change Problem](./Coin-Change)
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
+* Travel around the world [Travel around the world](./Travel-World)
 * Wet Shark and Two Subsequences [Wet Shark and Two Subsequences](./Wet-Shark-Subsequences)
 
 # Hard 困难级
