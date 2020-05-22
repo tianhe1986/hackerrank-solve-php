@@ -91,6 +91,7 @@
 * Find Strings [Find Strings](./Find-Strings)
 * Frog in Maze [Frog in Maze](./Frog-Maze)
 * HackerX [HackerX](./HackerX)
+* Jogging Cats [Jogging Cats](./Jogging-Cats)
 * Lovely Triplets [Lovely Triplets](./Lovely-Triplets)
 * Making Candies [Making Candies](./Making-Candies)
 * Quadrant Queries [Quadrant Queries](./Quadrant-Queries)
