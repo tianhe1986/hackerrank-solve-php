@@ -101,6 +101,7 @@
 * Recording Episodes [Recording Episodes](./Recording-Episodes)
 * Repair Roads [Repair Roads](./Repair-Roads)
 * Savita And Friends [Savita And Friends](./Savita-And-Friends)
+* Sherlock's Array Merging Algorithm [Sherlock's Array Merging Algorithm](./Sherlock-Array-Merging)
 * Subset Component [Subset Component](./Subset-Component)
 * Super Functional Strings [Super Functional Strings](./Super-Functional-Strings)
 * Task Scheduling [Task Scheduling](./Task-Scheduling)
