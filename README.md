@@ -41,6 +41,7 @@
 * Weighted Uniform Strings [Weighted Uniform Strings](./Weighted-Uniform-Strings)
 
 # Medium 中级
+* A stones game [A stones game](./Stones-Game)
 * Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
 * Bonetrousle [Bonetrousle](./Bonetrousle)
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
