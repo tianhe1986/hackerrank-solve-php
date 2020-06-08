@@ -42,6 +42,7 @@
 * Weighted Uniform Strings [Weighted Uniform Strings](./Weighted-Uniform-Strings)
 
 # Medium 中级
+* A stones game [A stones game](./Stones-Game)
 * Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
 * Bonetrousle [Bonetrousle](./Bonetrousle)
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
@@ -103,6 +104,7 @@
 * Recording Episodes [Recording Episodes](./Recording-Episodes)
 * Repair Roads [Repair Roads](./Repair-Roads)
 * Savita And Friends [Savita And Friends](./Savita-And-Friends)
+* Sherlock's Array Merging Algorithm [Sherlock's Array Merging Algorithm](./Sherlock-Array-Merging)
 * Subset Component [Subset Component](./Subset-Component)
 * Super Functional Strings [Super Functional Strings](./Super-Functional-Strings)
 * Task Scheduling [Task Scheduling](./Task-Scheduling)
