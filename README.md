@@ -33,6 +33,7 @@
 * Repeated String [Repeated String](./Repeated-String)
 * Running Time of Algorithms [Running Time of Algorithms](./Running-Time)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
+* Sherlock and Array [Sherlock and Array](./Sherlock-And-Array)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
 * Super Reduced String [Super Reduced String](./Super-Reduced-String)
 * Two Characters [Two Characters](./Two-Characters)
