@@ -53,6 +53,7 @@
 * Equal [Equal](./Equal)
 * Even Tree [Even Tree](./Even-Tree)
 * Extra Long Factorials [Extra Long Factorials](./Extra-Long-Factorials)
+* Extremum Permutations [Extremum Permutations](./Extremum-Permutations)
 * Flipping the Matrix [Flipping the Matrix](./Flipping-Matrix)
 * Gena Playing Hanoi [Gena Playing Hanoi](./Gena-Playing-Hanoi)
 * Goodland Electricity [Goodland Electricity](./Goodland-Electricity)
