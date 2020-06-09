@@ -106,6 +106,7 @@
 * Repair Roads [Repair Roads](./Repair-Roads)
 * Savita And Friends [Savita And Friends](./Savita-And-Friends)
 * Sherlock's Array Merging Algorithm [Sherlock's Array Merging Algorithm](./Sherlock-Array-Merging)
+* String Reduction [String Reduction](./String-Reduction)
 * Subset Component [Subset Component](./Subset-Component)
 * Super Functional Strings [Super Functional Strings](./Super-Functional-Strings)
 * Task Scheduling [Task Scheduling](./Task-Scheduling)
