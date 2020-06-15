@@ -14,6 +14,7 @@
 * Find Digits [Find Digits](./Find-Digits)
 * Find the Median [Find the Median](./Find-the-Median)
 * Flatland Space Stations [Flatland Space Stations](./Flatland-Space-Stations)
+* Funny String [Funny String](./Funny-String)
 * Game of Thrones - I [Game of Thrones - I](./Game-Thrones-One)
 * Grid Challenge [Grid Challenge](./Grid-Challenge)
 * Insertion Sort - Part 1 [Insertion Sort - Part 1](./Insertion-Sort1)
