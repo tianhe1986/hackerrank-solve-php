@@ -26,6 +26,7 @@
 * Library Fine [Library Fine](./Library-Fine)
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
 * Making Anagrams [Making Anagrams](./Making-Anagrams)
+* Mark and Toys [Mark and Toys](./Mark-Toys)
 * Missing Numbers [Missing Numbers](./Missing-Numbers)
 * Palindrome Index [Palindrome Index](./Palindrome-Index)
 * Pangrams [Pangrams](./Pangrams)
