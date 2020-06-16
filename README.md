@@ -81,6 +81,7 @@
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
 * Travel around the world [Travel around the world](./Travel-World)
 * Wet Shark and Two Subsequences [Wet Shark and Two Subsequences](./Wet-Shark-Subsequences)
+* Xor and Sum [Xor and Sum](./Xor-Sum)
 
 # Hard 困难级
 * Absolute Element Sums [Absolute Element Sums](./Absolute-Element-Sums)
