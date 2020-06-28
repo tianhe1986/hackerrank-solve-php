@@ -83,6 +83,7 @@
 * The Coin Change Problem [The Coin Change Problem](./Coin-Change)
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
 * Travel around the world [Travel around the world](./Travel-World)
+* Vertical Rooks [Vertical Rooks](./Vertical-Rooks)
 * Wet Shark and Two Subsequences [Wet Shark and Two Subsequences](./Wet-Shark-Subsequences)
 * Xor and Sum [Xor and Sum](./Xor-Sum)
 
