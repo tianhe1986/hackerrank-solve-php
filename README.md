@@ -17,6 +17,7 @@
 * Funny String [Funny String](./Funny-String)
 * Game of Thrones - I [Game of Thrones - I](./Game-Thrones-One)
 * Grid Challenge [Grid Challenge](./Grid-Challenge)
+* Ice Cream Parlor [Ice Cream Parlor](./Ice-Cream-Parlor)
 * Insertion Sort - Part 1 [Insertion Sort - Part 1](./Insertion-Sort1)
 * Insertion Sort - Part 2 [Insertion Sort - Part 2](./Insertion-Sort2)
 * Intro to Tutorial Challenges [Intro to Tutorial Challenges](./Intro-Tutorial)
