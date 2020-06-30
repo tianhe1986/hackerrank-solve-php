@@ -50,6 +50,7 @@
 * Bonetrousle [Bonetrousle](./Bonetrousle)
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
 * Candies [Candies](./Candies)
+* Candles Counting [Candles Counting](./Candles-Counting)
 * Clique [Clique](./Clique)
 * Cloudy Day [Cloudy Day](./Cloudy-Day)
 * Crab Graphs [Crab Graphs](./Crab-Graphs)
