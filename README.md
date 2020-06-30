@@ -98,6 +98,7 @@
 * Bike Racers [Bike Racers](./Bike-Racers)
 * ByteLandian Tours [ByteLandian Tours](./ByteLandian-Tours)
 * Cards Permutation [Cards Permutation](./Cards-Permutation)
+* Choosing White Balls [Choosing White Balls](./Choosing-White-Balls)
 * Count Strings [Count Strings](./Count-Strings)
 * Demanding Money [Demanding Money](./Demanding-Money)
 * Determining DNA Health [Determining DNA Health](./Determining-Health)
