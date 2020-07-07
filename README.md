@@ -74,6 +74,7 @@
 * Max Min [Max Min](./Max-Min)
 * Minimum Loss [Minimum Loss](./Minimum-Loss)
 * Minimum Penalty Path [Minimum Penalty Path](./Minimum-Penalty-Path)
+* New Year Chaos [New Year Chaos](./New-Year-Chaos)
 * Pairs [Pairs](./Pairs)
 * Prim's (MST) : Special Subtree [Prim's (MST) : Special Subtree](./Prim-Mst)
 * Red Knight's Shortest Path [Red Knight's Shortest Path](./Red-Knight-Path)
