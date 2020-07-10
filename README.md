@@ -103,6 +103,7 @@
 * Choosing White Balls [Choosing White Balls](./Choosing-White-Balls)
 * Count Strings [Count Strings](./Count-Strings)
 * Cutting Boards [Cutting Boards](./Cutting-Boards)
+* Decibinary Numbers [Decibinary Numbers](./Decibinary-Numbers)
 * Demanding Money [Demanding Money](./Demanding-Money)
 * Determining DNA Health [Determining DNA Health](./Determining-Health)
 * Dijkstra: Shortest Reach 2 [Dijkstra: Shortest Reach 2](./Dijkstra-Reach2)
