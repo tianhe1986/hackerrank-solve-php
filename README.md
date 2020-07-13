@@ -4,6 +4,7 @@
 
 # Easy 简单级
 * Append and Delete [Append and Delete](./Append-And-Delete)
+* Beautiful Pairs [Beautiful Pairs](./Beautiful-Pairs)
 * Big Sorting [Big Sorting](./Big-Sorting)
 * Correctness and the Loop Invariant [Correctness and the Loop Invariant](./Correctness-Invariant)
 * Counting Sort 1 [Counting Sort 1](./Counting-Sort1)
