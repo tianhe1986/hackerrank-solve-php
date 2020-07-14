@@ -116,6 +116,7 @@
 * Find Strings [Find Strings](./Find-Strings)
 * Frog in Maze [Frog in Maze](./Frog-Maze)
 * HackerX [HackerX](./HackerX)
+* Jim and his LAN Party [Jim and his LAN Party](./Jim-Lan-Party)
 * Jogging Cats [Jogging Cats](./Jogging-Cats)
 * Lovely Triplets [Lovely Triplets](./Lovely-Triplets)
 * Making Candies [Making Candies](./Making-Candies)
