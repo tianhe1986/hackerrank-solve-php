@@ -55,6 +55,7 @@
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
 * Candies [Candies](./Candies)
 * Candles Counting [Candles Counting](./Candles-Counting)
+* Chocolate in Box [Chocolate in Box](./Chocolate-In-Box)
 * Clique [Clique](./Clique)
 * Cloudy Day [Cloudy Day](./Cloudy-Day)
 * Crab Graphs [Crab Graphs](./Crab-Graphs)
