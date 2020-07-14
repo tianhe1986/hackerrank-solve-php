@@ -25,6 +25,7 @@
 * Jim and the Orders [Jim and the Orders](./Jim-Orders)
 * Jumping on the Clouds[Jumping on the Clouds](./Jumping-On-Clouds)
 * Jumping on the Clouds: Revisited [Jumping on the Clouds: Revisited](./Jumping-Clouds)
+* Largest Permutation [Largest Permutation](./Largest-Permutation)
 * Library Fine [Library Fine](./Library-Fine)
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
 * Making Anagrams [Making Anagrams](./Making-Anagrams)
