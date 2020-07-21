@@ -91,6 +91,7 @@
 * Swap Permutation [Swap Permutation](./Swap-Permutation)
 * Synchronous Shopping [Synchronous Shopping](./Synchronous-Shopping)
 * The Coin Change Problem [The Coin Change Problem](./Coin-Change)
+* The Indian Job [The Indian Job](./The-Indian-Job)
 * The Story of a Tree [The Story of a Tree](./The-Story-Tree)
 * Travel around the world [Travel around the world](./Travel-World)
 * Vertical Rooks [Vertical Rooks](./Vertical-Rooks)
