@@ -43,6 +43,7 @@
 * Sherlock and Array [Sherlock and Array](./Sherlock-And-Array)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
 * Sherlock and The Beast [Sherlock and The Beast](./Sherlock-And-Beast)
+* String Construction [String Construction](./String-Construction)
 * Super Reduced String [Super Reduced String](./Super-Reduced-String)
 * Two Characters [Two Characters](./Two-Characters)
 * Two Strings [Two Strings](./Two-Strings)
