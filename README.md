@@ -3,6 +3,7 @@
 我会尽量多讲一些简单和普通难度的, 对新手友好一点, 同时, 也因为自己水平有限啊:) 
 
 # Easy 简单级
+* Anagram [Anagram](./Anagram)
 * Append and Delete [Append and Delete](./Append-And-Delete)
 * Beautiful Pairs [Beautiful Pairs](./Beautiful-Pairs)
 * Big Sorting [Big Sorting](./Big-Sorting)
