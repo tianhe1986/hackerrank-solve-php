@@ -86,6 +86,7 @@
 * New Year Chaos [New Year Chaos](./New-Year-Chaos)
 * Pairs [Pairs](./Pairs)
 * Prim's (MST) : Special Subtree [Prim's (MST) : Special Subtree](./Prim-Mst)
+* Red John is Back [Red John is Back](./Red-John-Back)
 * Red Knight's Shortest Path [Red Knight's Shortest Path](./Red-Knight-Path)
 * Roads and Libraries [Roads and Libraries](./Roads-and-Libraries)
 * Sherlock and Cost [Sherlock and Cost](./Sherlock-Cost)
