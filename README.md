@@ -138,6 +138,7 @@
 * The Value of Friendship [The Value of Friendship](./Value-Friendship)
 * Ticket [Ticket](./Ticket)
 * Toll Cost Digits [Toll Cost Digits](./Toll-Cost-Digits)
+* Training the army [Training the army](./Training-Army)
 * Tree Flow [Tree Flow](./Tree-Flow)
 * Tripartite Matching [Tripartite Matching](./Tripartite-Matching)
 * Yet Another KMP Problem [Yet Another KMP Problem](./Kmp-Problem)
