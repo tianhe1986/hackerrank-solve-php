@@ -36,6 +36,7 @@
 * Palindrome Index [Palindrome Index](./Palindrome-Index)
 * Pangrams [Pangrams](./Pangrams)
 * Permuting Two Arrays [Permuting Two Arrays](./Two-Arrays)
+* Poker Nim [Poker Nim](./Poker-Nim)
 * Priyanka and Toys [Priyanka and Toys](./Priyanka-And-Toys)
 * Quicksort 1 - Partition [Quicksort 1 - Partition](./Quicksort-Partition)
 * Repeated String [Repeated String](./Repeated-String)
