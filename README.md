@@ -5,6 +5,7 @@
 # Easy 简单级
 * Anagram [Anagram](./Anagram)
 * Append and Delete [Append and Delete](./Append-And-Delete)
+* Beautiful Binary String [Beautiful Binary String](./Beautiful-Binary-String)
 * Beautiful Pairs [Beautiful Pairs](./Beautiful-Pairs)
 * Big Sorting [Big Sorting](./Big-Sorting)
 * Correctness and the Loop Invariant [Correctness and the Loop Invariant](./Correctness-Invariant)
