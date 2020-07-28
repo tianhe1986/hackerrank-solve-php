@@ -86,6 +86,7 @@
 * Minimum Penalty Path [Minimum Penalty Path](./Minimum-Penalty-Path)
 * New Year Chaos [New Year Chaos](./New-Year-Chaos)
 * Pairs [Pairs](./Pairs)
+* Permutation game [Permutation game](./Permutation-Game)
 * Play on benders [Play on benders](./Play-On-Benders)
 * Prim's (MST) : Special Subtree [Prim's (MST) : Special Subtree](./Prim-Mst)
 * Red John is Back [Red John is Back](./Red-John-Back)
