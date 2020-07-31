@@ -136,6 +136,7 @@
 * Repair Roads [Repair Roads](./Repair-Roads)
 * Savita And Friends [Savita And Friends](./Savita-And-Friends)
 * Sherlock's Array Merging Algorithm [Sherlock's Array Merging Algorithm](./Sherlock-Array-Merging)
+* Similar Pair [Similar Pair](./Similar-Pair)
 * String Function Calculation [String Function Calculation](./String-Function)
 * String Reduction [String Reduction](./String-Reduction)
 * Subset Component [Subset Component](./Subset-Component)
