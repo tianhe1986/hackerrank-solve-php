@@ -34,6 +34,7 @@
 * Mark and Toys [Mark and Toys](./Mark-Toys)
 * Maximizing XOR [Maximizing XOR](./Maximizing-Xor)
 * Missing Numbers [Missing Numbers](./Missing-Numbers)
+* Nimble Game [Nimble Game](./Nimble-Game)
 * Palindrome Index [Palindrome Index](./Palindrome-Index)
 * Pangrams [Pangrams](./Pangrams)
 * Permuting Two Arrays [Permuting Two Arrays](./Two-Arrays)
