@@ -63,6 +63,7 @@
 * Chocolate in Box [Chocolate in Box](./Chocolate-In-Box)
 * Clique [Clique](./Clique)
 * Cloudy Day [Cloudy Day](./Cloudy-Day)
+* Coin on the Table [Coin on the Table](./Coin-Table)
 * Crab Graphs [Crab Graphs](./Crab-Graphs)
 * Equal [Equal](./Equal)
 * Even Tree [Even Tree](./Even-Tree)
