@@ -30,6 +30,7 @@
 * Largest Permutation [Largest Permutation](./Largest-Permutation)
 * Library Fine [Library Fine](./Library-Fine)
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
+* Lonely Integer [Lonely Integer](./Lonely-Integer)
 * Making Anagrams [Making Anagrams](./Making-Anagrams)
 * Mark and Toys [Mark and Toys](./Mark-Toys)
 * Maximizing XOR [Maximizing XOR](./Maximizing-Xor)
