@@ -91,6 +91,7 @@
 * Pairs [Pairs](./Pairs)
 * Permutation game [Permutation game](./Permutation-Game)
 * Play on benders [Play on benders](./Play-On-Benders)
+* Play with words [Play with words](./Play-With-Words)
 * Prim's (MST) : Special Subtree [Prim's (MST) : Special Subtree](./Prim-Mst)
 * Red John is Back [Red John is Back](./Red-John-Back)
 * Red Knight's Shortest Path [Red Knight's Shortest Path](./Red-Knight-Path)
