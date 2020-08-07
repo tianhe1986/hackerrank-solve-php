@@ -134,6 +134,7 @@
 * Jogging Cats [Jogging Cats](./Jogging-Cats)
 * Lovely Triplets [Lovely Triplets](./Lovely-Triplets)
 * Making Candies [Making Candies](./Making-Candies)
+* Minimum MST Graph [Minimum MST Graph](./Minimum-Mst-Graph)
 * Quadrant Queries [Quadrant Queries](./Quadrant-Queries)
 * Real Estate Broker [Real Estate Broker](./Real-Estate-Broker)
 * Recording Episodes [Recording Episodes](./Recording-Episodes)
