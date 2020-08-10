@@ -34,6 +34,7 @@
 * Making Anagrams [Making Anagrams](./Making-Anagrams)
 * Mark and Toys [Mark and Toys](./Mark-Toys)
 * Maximizing XOR [Maximizing XOR](./Maximizing-Xor)
+* Maximum Perimeter Triangle [Maximum Perimeter Triangle](./Maximum-Triangle)
 * Missing Numbers [Missing Numbers](./Missing-Numbers)
 * Nimble Game [Nimble Game](./Nimble-Game)
 * Palindrome Index [Palindrome Index](./Palindrome-Index)
