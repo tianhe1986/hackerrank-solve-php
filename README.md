@@ -79,6 +79,7 @@
 * Greedy Florist [Greedy Florist](./Greedy-Florist)
 * Gridland Metro [Gridland Metro](./Gridland-Metro)
 * Hackerland Radio Transmitters [Hackerland Radio Transmitters](./Radio-Transmitters)
+* Interval Selection [Interval Selection](./Interval-Selection)
 * Jack goes to Rapture [Jack goes to Rapture](./Jack-Rapture)
 * Jeanie's Route [Jeanie's Route](./Jeanie-Route)
 * Journey to the Moon [Journey to the Moon](./Journey-to-the-Moon)
