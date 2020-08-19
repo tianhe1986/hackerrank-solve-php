@@ -35,6 +35,7 @@
 * Mark and Toys [Mark and Toys](./Mark-Toys)
 * Maximizing XOR [Maximizing XOR](./Maximizing-Xor)
 * Maximum Perimeter Triangle [Maximum Perimeter Triangle](./Maximum-Triangle)
+* Misère Nim [Misère Nim](./Misere-Nim)
 * Missing Numbers [Missing Numbers](./Missing-Numbers)
 * Nimble Game [Nimble Game](./Nimble-Game)
 * Palindrome Index [Palindrome Index](./Palindrome-Index)
