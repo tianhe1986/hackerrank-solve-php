@@ -92,6 +92,7 @@
 * Minimum Loss [Minimum Loss](./Minimum-Loss)
 * Minimum Penalty Path [Minimum Penalty Path](./Minimum-Penalty-Path)
 * New Year Chaos [New Year Chaos](./New-Year-Chaos)
+* New Year Game [New Year Game](./New-Year-Game)
 * Pairs [Pairs](./Pairs)
 * Permutation game [Permutation game](./Permutation-Game)
 * Play on benders [Play on benders](./Play-On-Benders)
