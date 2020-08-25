@@ -31,6 +31,7 @@
 * Library Fine [Library Fine](./Library-Fine)
 * Lisa's Workbook [Lisa's Workbook](./Lisa-Workbook)
 * Lonely Integer [Lonely Integer](./Lonely-Integer)
+* Luck Balance [Luck Balance](./Luck-Balance)
 * Making Anagrams [Making Anagrams](./Making-Anagrams)
 * Mark and Toys [Mark and Toys](./Mark-Toys)
 * Maximizing XOR [Maximizing XOR](./Maximizing-Xor)
