@@ -116,6 +116,7 @@
 # Hard 困难级
 * Absolute Element Sums [Absolute Element Sums](./Absolute-Element-Sums)
 * Alex vs Fedor [Alex vs Fedor](./Alex-Fedor)
+* Angry Children 2[Angry Children 2](./Angry-Children2)
 * Array Construction [Array Construction](./Array-Construction)
 * Ashton and String [Ashton and String](./Ashton-And-String)
 * Beautiful 3 Set [Beautiful 3 Set](./Beautiful-3Set)
