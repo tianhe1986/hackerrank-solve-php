@@ -86,6 +86,7 @@
 * Jeanie's Route [Jeanie's Route](./Jeanie-Route)
 * Journey to the Moon [Journey to the Moon](./Journey-to-the-Moon)
 * Kitty and Katty [Kitty and Katty](./Kitty-And-Katty)
+* Knapsack [Knapsack](./Knapsack)
 * KnightL on a Chessboard [KnightL on a Chessboard](./KnightL-on-a-Chessboard)
 * Kruskal (MST): Really Special Subtree [Kruskal (MST): Really Special Subtree](./Kruskal)
 * Lena Sort [Lena Sort](./Lena-Sort)
