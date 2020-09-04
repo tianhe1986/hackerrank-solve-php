@@ -54,6 +54,7 @@
 * Sherlock and The Beast [Sherlock and The Beast](./Sherlock-And-Beast)
 * String Construction [String Construction](./String-Construction)
 * Super Reduced String [Super Reduced String](./Super-Reduced-String)
+* The Love-Letter Mystery [The Love-Letter Mystery](./Love-Letter-Mystery)
 * Two Characters [Two Characters](./Two-Characters)
 * Two Strings [Two Strings](./Two-Strings)
 * Viral Advertising [Viral Advertising](./Viral-Advertising)
