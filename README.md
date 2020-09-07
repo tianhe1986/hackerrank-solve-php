@@ -80,6 +80,7 @@
 * Gena Playing Hanoi [Gena Playing Hanoi](./Gena-Playing-Hanoi)
 * Goodland Electricity [Goodland Electricity](./Goodland-Electricity)
 * Greedy Florist [Greedy Florist](./Greedy-Florist)
+* Grid Walking [Grid Walking](./Grid-Walking)
 * Gridland Metro [Gridland Metro](./Gridland-Metro)
 * Hackerland Radio Transmitters [Hackerland Radio Transmitters](./Radio-Transmitters)
 * Interval Selection [Interval Selection](./Interval-Selection)
