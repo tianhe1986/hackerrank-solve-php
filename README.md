@@ -149,6 +149,7 @@
 * Real Estate Broker [Real Estate Broker](./Real-Estate-Broker)
 * Recording Episodes [Recording Episodes](./Recording-Episodes)
 * Repair Roads [Repair Roads](./Repair-Roads)
+* Repetitive K-Sums [Repetitive K-Sums](./Repetitive-K-Sums)
 * Savita And Friends [Savita And Friends](./Savita-And-Friends)
 * Sherlock's Array Merging Algorithm [Sherlock's Array Merging Algorithm](./Sherlock-Array-Merging)
 * Similar Pair [Similar Pair](./Similar-Pair)
