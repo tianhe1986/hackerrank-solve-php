@@ -20,6 +20,7 @@
 * Flatland Space Stations [Flatland Space Stations](./Flatland-Space-Stations)
 * Funny String [Funny String](./Funny-String)
 * Game of Thrones - I [Game of Thrones - I](./Game-Thrones-One)
+* Gemstones [Gemstones](./Gemstones)
 * Grid Challenge [Grid Challenge](./Grid-Challenge)
 * Ice Cream Parlor [Ice Cream Parlor](./Ice-Cream-Parlor)
 * Insertion Sort - Part 1 [Insertion Sort - Part 1](./Insertion-Sort1)
