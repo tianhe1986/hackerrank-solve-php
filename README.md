@@ -161,6 +161,7 @@
 * String Reduction [String Reduction](./String-Reduction)
 * Subset Component [Subset Component](./Subset-Component)
 * Super Functional Strings [Super Functional Strings](./Super-Functional-Strings)
+* Tara's Beautiful Permutations [Tara's Beautiful Permutations](./Tara-Beautiful-Permutations)
 * Task Scheduling [Task Scheduling](./Task-Scheduling)
 * The Value of Friendship [The Value of Friendship](./Value-Friendship)
 * Ticket [Ticket](./Ticket)
