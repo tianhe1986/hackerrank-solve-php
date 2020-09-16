@@ -49,6 +49,7 @@
 * Quicksort 1 - Partition [Quicksort 1 - Partition](./Quicksort-Partition)
 * Repeated String [Repeated String](./Repeated-String)
 * Running Time of Algorithms [Running Time of Algorithms](./Running-Time)
+* Separate the Numbers [Separate the Numbers](./Separate-The-Numbers)
 * Sequence Equation [Sequence Equation](./Sequence-Equation)
 * Sherlock and Array [Sherlock and Array](./Sherlock-And-Array)
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
