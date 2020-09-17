@@ -66,6 +66,7 @@
 * Beautiful Quadruples [Beautiful Quadruples](./Beautiful-Quadruples)
 * Bonetrousle [Bonetrousle](./Bonetrousle)
 * Breadth First Search: Shortest Reach [Breadth First Search: Shortest Reach](./Breadth-First)
+* Bricks Game [Bricks Game](./Bricks-Game)
 * Candies [Candies](./Candies)
 * Candles Counting [Candles Counting](./Candles-Counting)
 * Chocolate in Box [Chocolate in Box](./Chocolate-In-Box)
