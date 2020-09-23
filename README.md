@@ -163,6 +163,7 @@
 * Super Functional Strings [Super Functional Strings](./Super-Functional-Strings)
 * Tara's Beautiful Permutations [Tara's Beautiful Permutations](./Tara-Beautiful-Permutations)
 * Task Scheduling [Task Scheduling](./Task-Scheduling)
+* The Longest Increasing Subsequence [The Longest Increasing Subsequence](./The-Longest-Increasing-Subsequence)
 * The Value of Friendship [The Value of Friendship](./Value-Friendship)
 * Ticket [Ticket](./Ticket)
 * Toll Cost Digits [Toll Cost Digits](./Toll-Cost-Digits)
