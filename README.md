@@ -55,6 +55,7 @@
 * Sherlock and Squares [Sherlock and Squares](./Sherlock-And-Squares)
 * Sherlock and The Beast [Sherlock and The Beast](./Sherlock-And-Beast)
 * String Construction [String Construction](./String-Construction)
+* Strong Password [Strong Password](./Strong-Password)
 * Super Reduced String [Super Reduced String](./Super-Reduced-String)
 * The Love-Letter Mystery [The Love-Letter Mystery](./Love-Letter-Mystery)
 * Two Characters [Two Characters](./Two-Characters)
